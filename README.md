@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React(Advance)**
 
-- 👨
-
 - 💬 Ask me about **HTML, CSS, JS, React.js**
 
 - 📫 How to reach me **mohit94e@gmail.com**
