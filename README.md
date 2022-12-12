@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React(Advance)**
 
-- 👨‍💻 All of my projects are available at [https://mohit-raj-singh.github.io/](https://mohit-raj-singh.github.io/)
+- 👨
 
 - 💬 Ask me about **HTML, CSS, JS, React.js**
 
