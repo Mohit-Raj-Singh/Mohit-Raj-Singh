@@ -71,7 +71,6 @@
   </p>
   <br>
 
-<p align="center"> <a href="https://github.com/Mohit-Raj-Singh"><img src="https://github-profile-trophy.vercel.app/?username=Mohit-Raj-Singh&theme=dark&count_private=true" alt="Mohit-Raj-Singh" /></a> </p>
 
 <table>
   <tr>
