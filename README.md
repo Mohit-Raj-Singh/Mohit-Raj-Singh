@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Mongoose**
 
 - 💬 Ask me about **HTML, CSS, JS, React.js, React-Redux, Chakra-UI, Redux-Thunk**
-
+- 🚙 Reach me on  <b>Mail : : <a style="color:red;" href="mailto:mohit94e@gmail.com">mohit94e@gmail.com</a></b>
 - 📄 <a href="https://drive.google.com/file/d/1pU66hMY_E8PabIlRXU-TdMBk_0yRGUEA/view?usp=sharing" style="text-decoration:none">Resume
   <img height="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEgbIkZtESf7JEBXSWzm9B2f5zeF5omNK6w&usqp=CAU">
 </a>
@@ -37,38 +37,33 @@
 </a>
          
 
- <h3><i>Tech Stacks I have worked with :</i></h3>
+## 🌿Technical Skills
 
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-      alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-      alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white"
-      alt="chakra-ui" />
-    <img
-      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-      alt="styled-components" />
-  </p>
+### 📚 Languages:
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445854-4f0785bd-1cf9-4fa7-b986-f8df76d9ec71.svg"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445905-9066e366-7ee1-4c3c-974f-2765a621518a.svg"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445912-cebfc9c8-4e9e-48c8-a4bc-3a6fd8eeb37b.svg"/></a>
+  <a href="https://www.typescriptlang.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445940-7f82cb2b-69e5-4099-9f65-e0dd00a6283a.svg"/></a>
+  
+### 🌸 Frameworks & Libraries:
+  
+  <a href="https://reactjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445931-9b63ab2d-c752-40e6-a49e-4aaa54113d2b.svg"/></a>
+  <a href="https://nextjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216027451-4b2d8c2b-338d-4a41-8e6d-0fcc16d9b9a2.svg"/></a>
+  <a href="https://vitejs.dev/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216028643-ea48ac65-ba15-43c4-8999-31dfb660ebae.svg"/></a>
+  <a href="https://nodejs.org/en/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445986-290b2b16-0728-4697-9596-bc4c964ab47c.svg"/></a>
+  <a href="https://expressjs.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445988-e24ead22-e7f5-42d3-be49-5dc217e4236c.svg"/></a>
+  <a href="https://getbootstrap.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446018-418877e5-ddcc-4a64-918b-9c922a3397f3.svg"/></a>
+  <a href="https://mui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445944-4b653f4f-9c1e-4d7e-9198-831cec2e0824.svg"/></a>
+  <a href="https://chakra-ui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/></a></p>
+  
+### 🎯 Database & Tools:
+  
+  <a href="https://www.mongodb.com/home"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445995-cfdc6ab0-7053-4a99-ae0b-211a753df499.svg"/></a>
+  <a href="https://git-scm.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446039-7f330c21-3020-4259-8c6c-f5a09d794949.svg"/></a>
+  <a href="https://devcenter.heroku.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445955-a0451d06-9a75-477b-a6ca-ead0d5f4780b.svg"/></a>
+  <a href="https://www.npmjs.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446056-f6fa3b7e-c294-4628-8f53-55b36e3bdc7f.svg"/></a>
+  <a href="https://code.visualstudio.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446082-f641ed4d-3480-4b8b-b5ff-cdc28a93890c.svg"/></a>
   <br>
 
 
