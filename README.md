@@ -44,7 +44,6 @@
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445854-4f0785bd-1cf9-4fa7-b986-f8df76d9ec71.svg"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445905-9066e366-7ee1-4c3c-974f-2765a621518a.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445912-cebfc9c8-4e9e-48c8-a4bc-3a6fd8eeb37b.svg"/></a>
-  <a href="https://www.typescriptlang.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445940-7f82cb2b-69e5-4099-9f65-e0dd00a6283a.svg"/></a>
   
 ### 🌸 Frameworks & Libraries:
   
