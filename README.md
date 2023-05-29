@@ -76,4 +76,4 @@
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Raj-Singh&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-Raj-Singh&theme=react-dark&custom_title=Mohit-Raj-Singh%20's%20contribution%20Graph&hide_border=true" />
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-Raj-Singh&theme=react-dark&custom_title=Mohit-Raj-Singh%20's%20contribution%20Graph&hide_border=true" /> -->
