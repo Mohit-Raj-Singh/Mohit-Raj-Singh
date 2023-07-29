@@ -1,4 +1,3 @@
-<!-- ![MasterHead align="center"](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966) -->
 <img width="100%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="head" />
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -7,7 +6,7 @@
          width="45" /> I'm Mohit Raj Singh</h1>
          <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
 
-<h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
+<h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1200+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-raj-singh&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-raj-singh" /> </p>
 
